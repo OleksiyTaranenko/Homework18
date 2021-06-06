@@ -1,0 +1,31 @@
+#user {   
+    float: left; 
+    width: 360px;
+    height: 160px;
+    margin-left: 40px;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    line-height: 22px;
+}
+
+#companies {  
+    float: left;    
+    width: 360px;
+    height: 160px;
+    margin-left: 40px;
+    padding: 20px;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 5px;
+    word-spacing: 3px;
+    line-height: 22px;
+}
+.h1 {
+    margin-left: 120px;
+}
+.h2 {
+    margin-left: 520px;
+}
